@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MenuDigitalFMC/static/css/main.148c5190.chunk.css",
-    "main.js": "/MenuDigitalFMC/static/js/main.22492b01.chunk.js",
-    "main.js.map": "/MenuDigitalFMC/static/js/main.22492b01.chunk.js.map",
+    "main.js": "/MenuDigitalFMC/static/js/main.e5a7a36d.chunk.js",
+    "main.js.map": "/MenuDigitalFMC/static/js/main.e5a7a36d.chunk.js.map",
     "runtime-main.js": "/MenuDigitalFMC/static/js/runtime-main.9c274413.js",
     "runtime-main.js.map": "/MenuDigitalFMC/static/js/runtime-main.9c274413.js.map",
     "static/js/2.948b3b3a.chunk.js": "/MenuDigitalFMC/static/js/2.948b3b3a.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.9c274413.js",
     "static/js/2.948b3b3a.chunk.js",
     "static/css/main.148c5190.chunk.css",
-    "static/js/main.22492b01.chunk.js"
+    "static/js/main.e5a7a36d.chunk.js"
   ]
 }
