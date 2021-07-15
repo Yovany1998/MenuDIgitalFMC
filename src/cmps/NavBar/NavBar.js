@@ -8,8 +8,8 @@ function NavBar() {
         <div  className="items-center hidden sm:flex flex-row justify-between px-2" >
         <Link to={"/"}> <div className="LogoNasa  w-20 h-14 " ></div> </Link>
             <div className="Paginas sm:w-60 sm:px-4 md:w-80  flex justify-between" >
-                <Link to={"/acercade"} className="Opcion sm:text-lg md:text-2xl" >Acerca de Nosotros</Link>
-                <Link to={"/galeria"} className="Opcion sm:text-lg md:text-2xl" >Contactanos</Link>
+                {/* <Link to={"/acercade"} className="Opcion sm:text-lg md:text-2xl" >Acerca de Nosotros</Link>
+                <Link to={"/galeria"} className="Opcion sm:text-lg md:text-2xl" >Contactanos</Link> */}
             </div>
         </div>
 

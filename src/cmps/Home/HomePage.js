@@ -29,25 +29,41 @@ function HomePage() {
             </div>
            <div>
                <Card 
-               imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/sol.png"
-               titulo="Sol"
-               descripcion="El Sol ​ es una estrella de tipo-G de la secuencia principal y clase de luminosidad V que se encuentra en el centro del sistema solar y constituye la mayor fuente de radiación electromagnética de este sistema planetario."
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/Sanwhich%20cubano.jpg"
+               titulo="sandwich cubano"
+               descripcion="Precio: L.100.00"
                />
                <Card 
-               imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/tierra.png"
-               titulo="Tierra"
-               descripcion="La Tierra es un planeta del sistema solar que gira alrededor de su estrella —el Sol— en la tercera órbita más interna. Es el más denso y el quinto mayor de los ocho planetas del sistema solar. También es el mayor de los cuatro terrestres o rocosos. "
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/Sanwhich.jpg"
+               titulo="Sandwich"
+               descripcion="Precio: L.60.00"
                />
                <Card 
-               imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/luna.png"
-               titulo="Luna"
-               descripcion="La Luna es el único satélite natural de la Tierra. Con un diámetro ecuatorial de 3476 km, es el quinto satélite más grande del sistema solar, mientras que en cuanto al tamaño proporcional respecto a su planeta es el satélite más grande: un cuarto del diámetro de la Tierra y 1/81 de su masa. "
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/alitas.jpeg"
+               titulo="Alitas 12 unidades"
+               descripcion="Precio: L.160.00"
                />
                <Card 
-               imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/saturno.png"
-               titulo="Saturno"
-               descripcion="Saturno es el sexto planeta del sistema solar contando desde el Sol, el segundo en tamaño y masa después de Júpiter y el único con un sistema de anillos visible desde la Tierra. Su nombre proviene del dios romano Saturno. Forma parte de los denominados planetas exteriores o gaseosos."
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/panqueques.jpeg"
+               titulo="Panqueques"
+               descripcion="Precio: L.35.00"
                />
+               <Card 
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/perros%20calientes.jpg"
+               titulo="Perro Caliente"
+               descripcion="Precio: L.60.00"
+               />
+               <Card 
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/pollo%20asado.jpeg"
+               titulo="Pollo asado"
+               descripcion="Precio: L.60.00"
+               />
+               <Card 
+               imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/tacos%202%20unidades.jpg"
+               titulo="Tacos 2 unidades"
+               descripcion="Precio: L.50.00"
+               />
+      
 
               
            </div>
