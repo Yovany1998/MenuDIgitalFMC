@@ -1,5 +1,5 @@
 .LogoNasa{
-    background: transparent url('../img/logo.jpeg') no-repeat center;
+    background: transparent url('../img/logo.png') no-repeat center;
     background-size: 100% 100%;
 }
 .Dropdown:hover > .DropdownMenu {

@@ -2,7 +2,6 @@ import DatoEstadistico from './DatoEstadistico';
 import NavBar from '../NavBar/NavBar';
 import Footer from '../Footer/Footer';
 import Card from '../Card/Card';
-
 import '../../css/HomePage.css';
 
 
@@ -62,10 +61,7 @@ function HomePage() {
                imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/tacos%202%20unidades.jpg"
                titulo="Tacos 2 unidades"
                descripcion="Precio: L.50.00"
-               />
-      
-
-              
+               />  
            </div>
             <Footer/>
 

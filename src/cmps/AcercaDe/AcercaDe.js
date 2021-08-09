@@ -11,7 +11,7 @@ function AcercaDe() {
                     Finca Monte Carlo
                 </div>
 
-                <img src="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/images/Satelite.jpg" className="w-full"/>  
+                <img src="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/logo.png" className="w-full"/>  
 
                 <div className="p-8" >
                     <div className="w-full flex flex-col items-center my-4" >

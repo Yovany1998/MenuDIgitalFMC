@@ -8,8 +8,8 @@ function NavBar() {
         <div  className="items-center hidden sm:flex flex-row justify-between px-2" >
         <Link to={"/"}> <div className="LogoNasa  w-20 h-14 " ></div> </Link>
             <div className="Paginas sm:w-60 sm:px-4 md:w-80  flex justify-between" >
-                {/* <Link to={"/acercade"} className="Opcion sm:text-lg md:text-2xl" >Acerca de Nosotros</Link>
-                <Link to={"/galeria"} className="Opcion sm:text-lg md:text-2xl" >Contactanos</Link> */}
+                <Link to={"/acercade"} className="Opcion sm:text-lg md:text-2xl" >Acerca de Nosotros</Link>
+                {/* <Link to={"/galeria"} className="Opcion sm:text-lg md:text-2xl" >Contactanos</Link> */}
             </div>
         </div>
 
@@ -28,7 +28,7 @@ function NavBar() {
                 </button>
                 <ul className="DropdownMenu absolute hidden t-1">
                     <li><Link to={"/acercade"} className="DropdownOpcion rounded-t py-2 px-4 block whitespace-no-wrap" href="#">Acerca de la NASA</Link></li>
-                    <li><Link to={"/galeria"} className="DropdownOpcion py-2 px-4 block whitespace-no-wrap" href="#">Galeria</Link></li>
+                    {/* <li><Link to={"/galeria"} className="DropdownOpcion py-2 px-4 block whitespace-no-wrap" href="#">Galeria</Link></li> */}
                 </ul>
             </div>
             
