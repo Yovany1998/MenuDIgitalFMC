@@ -9,6 +9,13 @@ import HomePage  from './cmps/Home/HomePage';
 import Galeria  from './cmps/Galeria/Galeria';
 import AcercaDe from './cmps/AcercaDe/AcercaDe';
 
+/*
+Primero ocupo ejecutar estos comando cada vez que  haga cambios
+
+npm run build
+npm run deploy
+
+*/
 function App() {
   return (
     <div className="App">

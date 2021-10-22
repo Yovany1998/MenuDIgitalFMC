@@ -3,8 +3,9 @@ function Card({imagen,titulo, descripcion}) {
 
 <div className="flex flex-col md:flex-row p-4 items-center">
 
-        <section className="flex w-full h-full  item-center">
-                  <img alt="imagen no encontrada" src={imagen}/>
+        <section  className="flex w-96 h-full  item-center ">
+                  <img className=" md:w-96 sm:w-100" alt="imagen no encontrada" src={imagen}/>
+                  {/* <img style={{maxWidth:"40vw"}} alt="imagen no encontrada" src={imagen}/> */}
         </section>
         <div className="p-6">
           

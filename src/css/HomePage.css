@@ -1,9 +1,8 @@
 
 .ContenedorConImagen{
     background: url('../img/paisaje.jpeg') no-repeat top right ;
-    background-size: 58vw;
-    background-position-y: 20vh;
-    background-position-x: top;
+    background-size: 100vw;
+
 }
 /*Movil*/
 @media only screen
