@@ -26,7 +26,8 @@ function HomePage() {
                     />
                 </div>
             </div>
-           <div >
+
+           <div className='mt-auto'>
                <Card 
                imagen="https://raw.githubusercontent.com/Yovany1998/MenuDigitalFMC/main/src/img/Sanwhich%20cubano.jpg"
                titulo="sandwich cubano"

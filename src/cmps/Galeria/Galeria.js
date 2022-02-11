@@ -8,55 +8,41 @@ function Galeria(){
             <NavBar/>
             <div className=" flex md:flex-row justify-items-center flex-col justify-between py-8 px-6">
                 <Tarjeta
-                    imagen="../../img/paisaje1.jpeg"
+                    imagen="https://github.com/Yovany1998/MenuDigitalFMC/blob/main/src/img/foto%20de%20noche.jpeg?raw=true"
+                    titulo="Vista nocturna"
+                    descripcion="Paisajes de Gualcinse y su descripción"
+                />
+                <Tarjeta
+                    imagen="https://github.com/Yovany1998/MenuDigitalFMC/blob/main/src/img/camping.jpeg?raw=true"
+                    titulo="Camping"
+                    descripcion="Paisajes de Gualcinse y su descripción"
+                />
+                <Tarjeta
+                    imagen="https://github.com/Yovany1998/MenuDigitalFMC/blob/main/src/img/paisaje.jpeg?raw=true"
+                    titulo="Vista de dia"
+                    descripcion="Paisajes de Gualcinse y su descripción"
+                />
+            </div>
+
+            <div className=" flex md:flex-row justify-items-center flex-col justify-between py-8 px-6">
+                <Tarjeta
+                    imagen="https://github.com/Yovany1998/MenuDigitalFMC/blob/main/src/img/paisaje1.jpeg?raw=true"
                     titulo="Mirador"
                     descripcion="Paisajes de Gualcinse y su descripción"
                 />
                 <Tarjeta
-                    imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/nebula.jpg"
-                    titulo="Nebula"
-                    descripcion="Una nebulosa es una nube gigante de polvo y gas en el espacio. Algunas nebulosas 
-                    (más de una nebulosa) provienen del gas y el polvo arrojados por la explosión de una estrella 
-                    moribunda, como una supernova. Otras nebulosas son regiones donde comienzan a formarse nuevas estrellas."
+                    imagen="https://github.com/Yovany1998/MenuDigitalFMC/blob/main/src/img/pisina%20de%20noche.jpeg?raw=true"
+                    titulo="Psisina de noche"
+                    descripcion="Paisajes de Gualcinse y su descripción"
                 />
                 <Tarjeta
-                    imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/saturn.jpg"
-                    titulo="Saturno"
-                    descripcion="Saturno es el sexto planeta desde el Sol y el segundo más grande del Sistema Solar.
-                    después de Júpiter. Es un gigante gaseoso con un radio promedio de aproximadamente nueve veces el de la Tierra.
-                    Solo tiene un octavo de la densidad promedio de la Tierra.
-                    "
+                    imagen="https://github.com/Yovany1998/MenuDigitalFMC/blob/main/src/img/foto%20de%20noche.jpeg?raw=true"
+                    titulo="Vista nocturna"
+                    descripcion="Paisajes de Gualcinse y su descripción"
                 />
             </div>
 
-            <div className=" flex md:flex-row justify-items-center flex-col justify-between py-8 px-6">
-                <Tarjeta
-                    imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/scispace.jpg"
-                    titulo="Espacio"
-                    descripcion="Cuando miras hacia el cielo nocturno, ves estrellas y, a veces, la luna y
-                    los planetas más brillantes. Lejos de las luces de la ciudad, en una noche clara, es posible que vea la hermosa banda
-                    de la Vía Láctea, que se extiende por el cielo. "
-                />
-                <Tarjeta
-                    imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/sol.jpg"
-                    titulo="Llamarada Solar"
-                    descripcion="Una llamarada solar es un destello repentino de mayor brillo en el Sol,
-                    generalmente se observa cerca de su superficie y muy cerca de un grupo de manchas solares. Poderoso
-                    los brotes a menudo, pero no siempre, van acompañados de una eyección de masa coronal. Incluso el mas
-                    poderosas llamaradas son apenas detectables en la irradiancia solar total"
-                />
-                <Tarjeta
-                    imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/station.jpg"
-                    titulo="Estación Espacial Internacional"
-                    descripcion="La Estación Espacial Internacional (ISS) es una estación espacial modular
-                    (satélite artificial habitable) en órbita terrestre baja.
-                    La estación sirve como laboratorio de investigación de microgravedad y medio ambiente espacial en el que científicos
-                    La investigación se lleva a cabo en astrobiología, astronomía, meteorología, física y otros campos."
-                    
-                />
-            </div>
-
-            <div className=" flex md:flex-row justify-items-center flex-col justify-between py-8 px-6">
+            {/* <div className=" flex md:flex-row justify-items-center flex-col justify-between py-8 px-6">
                 <Tarjeta
                     imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/sun1.jpg"
                     titulo="El Sol"
@@ -82,7 +68,7 @@ function Galeria(){
                     que la Tierra bloquee los rayos solares que llegan al satélite, por eso los eclipses lunares solo pueden ocurrir 
                     en la fase de luna llena."
                 />
-            </div>
+            </div> */}
 
             <Footer/>
         </div>

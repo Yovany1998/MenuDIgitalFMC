@@ -28,7 +28,7 @@ function NavBar() {
                 </button>
                 <ul className="DropdownMenu absolute hidden t-1">
                     <li><Link to={"/acercade"} className="DropdownOpcion rounded-t py-2 px-4 block whitespace-no-wrap" href="#">Acerca de FMC</Link></li>
-                    <li><Link to={"/"} className="DropdownOpcion py-2 px-4 block whitespace-no-wrap" href="#">Inicio</Link></li>
+                    {/* <li><Link to={"/"} className="DropdownOpcion py-2 px-4 block whitespace-no-wrap" href="#">Inicio</Link></li> */}
                 </ul>
             </div>
             
