@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/MenuDigitalFMC/static/css/main.eb953119.chunk.css",
-    "main.js": "/MenuDigitalFMC/static/js/main.a3614906.chunk.js",
-    "main.js.map": "/MenuDigitalFMC/static/js/main.a3614906.chunk.js.map",
+    "main.css": "/MenuDigitalFMC/static/css/main.d497b521.chunk.css",
+    "main.js": "/MenuDigitalFMC/static/js/main.66c012e5.chunk.js",
+    "main.js.map": "/MenuDigitalFMC/static/js/main.66c012e5.chunk.js.map",
     "runtime-main.js": "/MenuDigitalFMC/static/js/runtime-main.9c274413.js",
     "runtime-main.js.map": "/MenuDigitalFMC/static/js/runtime-main.9c274413.js.map",
     "static/js/2.948b3b3a.chunk.js": "/MenuDigitalFMC/static/js/2.948b3b3a.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.9124edee.chunk.js": "/MenuDigitalFMC/static/js/3.9124edee.chunk.js",
     "static/js/3.9124edee.chunk.js.map": "/MenuDigitalFMC/static/js/3.9124edee.chunk.js.map",
     "index.html": "/MenuDigitalFMC/index.html",
-    "static/css/main.eb953119.chunk.css.map": "/MenuDigitalFMC/static/css/main.eb953119.chunk.css.map",
+    "static/css/main.d497b521.chunk.css.map": "/MenuDigitalFMC/static/css/main.d497b521.chunk.css.map",
     "static/js/2.948b3b3a.chunk.js.LICENSE.txt": "/MenuDigitalFMC/static/js/2.948b3b3a.chunk.js.LICENSE.txt",
     "static/media/NavBar.css": "/MenuDigitalFMC/static/media/logo.6fc03d79.png",
     "static/media/HomePage.css": "/MenuDigitalFMC/static/media/paisaje.e0c1721b.jpeg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.9c274413.js",
     "static/js/2.948b3b3a.chunk.js",
-    "static/css/main.eb953119.chunk.css",
-    "static/js/main.a3614906.chunk.js"
+    "static/css/main.d497b521.chunk.css",
+    "static/js/main.66c012e5.chunk.js"
   ]
 }
