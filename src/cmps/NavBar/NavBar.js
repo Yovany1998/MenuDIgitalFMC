@@ -6,16 +6,16 @@ function NavBar() {
     <nav className=" flex-row justify-between p-2">
         
         <div  className="items-center hidden sm:flex flex-row justify-between px-2" >
-        <Link to={"/"}> <div className="LogoNasa  w-20 h-14 " ></div> </Link>
-            <div className="Paginas sm:w-60 sm:px-4 md:w-80  flex justify-between" >
+        <Link to={"/"}> <div className="LogoNasa  w-20 h-20 " ></div> </Link>
+            <div className="Paginas sm:w-100 sm:px-4 md:w-80  flex justify-between" >
                 <Link to={"/acercade"} className="Opcion sm:text-lg md:text-2xl" >Acerca de Nosotros</Link>
-                {/* <Link to={"/galeria"} className="Opcion sm:text-lg md:text-2xl" >Contactanos</Link> */}
+               <Link to={"/galeria"} className="Opcion sm:text-lg md:text-2xl" >Mas informacion</Link>
             </div>
         </div>
 
         <div className="sm:hidden items-center  flex flex-row justify-between p-2" id="mobile-menu">
             <Link to={"/"} > 
-            {/* <div className="LogoNasa  w-40 h-40 " ></div> */}
+            <div className="LogoNasa  w-40 h-40 " ></div>
             </Link>
 
             <div className="Dropdown ">
@@ -27,8 +27,8 @@ function NavBar() {
                     </svg>
                 </button>
                 <ul className="DropdownMenu absolute hidden t-1">
-                    <li><Link to={"/acercade"} className="DropdownOpcion rounded-t py-2 px-4 block whitespace-no-wrap" href="#">Acerca de la NASA</Link></li>
-                    {/* <li><Link to={"/galeria"} className="DropdownOpcion py-2 px-4 block whitespace-no-wrap" href="#">Galeria</Link></li> */}
+                    <li><Link to={"/acercade"} className="DropdownOpcion rounded-t py-2 px-4 block whitespace-no-wrap" href="#">Acerca de FMC</Link></li>
+                    <li><Link to={"/"} className="DropdownOpcion py-2 px-4 block whitespace-no-wrap" href="#">Inicio</Link></li>
                 </ul>
             </div>
             

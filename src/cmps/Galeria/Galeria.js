@@ -8,11 +8,9 @@ function Galeria(){
             <NavBar/>
             <div className=" flex md:flex-row justify-items-center flex-col justify-between py-8 px-6">
                 <Tarjeta
-                    imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/firewal%20nova.jpg"
-                    titulo="Nova"
-                    descripcion="Una nova es una explosión termonuclear causada por un desequilibrio entre la gravedad 
-                    de una estrella y su combustible nuclear, hidrógeno; cuando la estrella agota el combustible nuclear 
-                    que la mantiene estable, colapso que a su vez provoca una explosión de gran magnitud. "
+                    imagen="../../img/paisaje1.jpeg"
+                    titulo="Mirador"
+                    descripcion="Paisajes de Gualcinse y su descripción"
                 />
                 <Tarjeta
                     imagen="https://raw.githubusercontent.com/gustavo-exe/AppNASA/master/src/img/nebula.jpg"
